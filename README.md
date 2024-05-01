@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @xnnn8ns
 - 👀 I’m interested in creating simple games
 - 🌱 I’m currently learning front-end (JS, html, css)
-- I also studied unity with c#, python.
 
 
 <!---
